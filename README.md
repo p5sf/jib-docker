@@ -150,7 +150,7 @@ public class Application {
 
 
 
-## 方式三：fabric8
+## 方式三：jib
 
 编写POM文件
 
